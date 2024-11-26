@@ -1,0 +1,7 @@
+.logout-link {
+    color: red !important;
+}
+
+.logout-link:hover {
+    color: darkred;
+}
